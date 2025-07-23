@@ -1,0 +1,5 @@
+Selected xpath: //a[contains(text(),'Autumn Chase(RC) - Automation')]
+Selected property: Autumn Chase(RC) - Automation
+Applicant Name: Luella
+Birthdate: 12/24/2006
+Full Name: Luella Bush

@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","215735","Verify Resident Payment Via Resident Portal","","Wed Jul 23 19:53:40 IST 2025","passed","Wed Jul 23 19:57:15 IST 2025","","Demo\TC_Resident_Pay_Via_Portal_QA_7712.spec.ts","",""
+"","210314","Verify Resident Accept Online Payment Via Resident Portal","","Wed Jul 23 19:50:09 IST 2025","passed","Wed Jul 23 19:53:39 IST 2025","","Demo\AcceptResidentOnlinePayment_QA_7713.spec.ts","",""
